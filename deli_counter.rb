@@ -10,5 +10,7 @@ def line(place)
 end
 
 def take_a_number(num, name)
-  katz_deli << 
-end  
+  if katz_deli.length == 0  << "Ada"
+ else
+ end
+ end
