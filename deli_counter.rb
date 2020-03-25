@@ -10,5 +10,5 @@ def line(place)
 end
 
 def take_a_number(num, name)
-  
+  katz_deli << "#{num} #{name}"
 end  
