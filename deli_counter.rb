@@ -5,3 +5,6 @@ def line(place)
   end    
   "The line is currently empty."
 end
+
+def take_a_number(num, name)
+  
