@@ -10,4 +10,4 @@ def line(place)
 end
 
 def take_a_number(num, name)
-  
+end  
